@@ -21,7 +21,7 @@
         "email": "carson@example.com",
         "title": "My Ticket2",
         "description": "testing tickets testing tickets testing tickets testing tickets testing tickets testing tickets testing tickets testing tickets testing tickets testing tickets testing tickets testing ticketstesting tickets testing tickets testing tickets testing tickets testing tickets testing ticketstesting tickets testing tickets testing tickets testing tickets testing tickets testing tickets",
-        "status": "Open"
+        "status": "Resolved"
     },
     {
         "ticket_id": "TKT6A203EE958045",
@@ -29,6 +29,14 @@
         "email": "baston@example.com",
         "title": "Ticket5",
         "description": "Open ticket",
+        "status": "Resolved"
+    },
+    {
+        "ticket_id": "TKT6A2040541B1B6",
+        "name": "Mr John",
+        "email": "john@example.com",
+        "title": "Ticket 567",
+        "description": "This is my ticket",
         "status": "Resolved"
     }
 ]

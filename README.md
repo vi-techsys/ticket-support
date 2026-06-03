@@ -1,4 +1,4 @@
-# PostGuy - Ticket Support System
+Ticket Support System
 
 A lightweight Laravel-based ticket support system where guests can create support tickets and admins can manage them.
 
