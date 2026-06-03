@@ -27,9 +27,7 @@ A lightweight Laravel-based ticket support system where guests can create suppor
    ```
 
 3. **Access the app**
-   - Guest tickets: `http://localhost:8000`
-   - Admin login: `http://localhost:8000/admin/login`
-   - Demo credentials: `admin@postguy.com` / `admin123`
+   - Demo credentials: `admin@example.com` / `admin123`
 
 ## How It Works
 
